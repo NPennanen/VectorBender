@@ -1,8 +1,8 @@
 # ![create pairs layers](resources/icon.png) ![create pairs layers](resources/icon.png) ![create pairs layers](resources/icon.png) VectorBender ![create pairs layers](resources/icon.png) ![create pairs layers](resources/icon.png) ![create pairs layers](resources/icon.png)
 
-VectorBender is an __EXPERIMENTAL__ QGIS Python plugin allowing to transform vector layers to match another geometry. Depening on the number of input points defined, the plugin chooses on of the three transformation types : translation, uniform, or bending.
+VectorBender is an __EXPERIMENTAL__ QGIS Python plugin allowing to transform vector layers to match another geometry. Depending on the number of input points defined, the plugin chooses one of the three transformation types : translation, uniform, or bending.
 
-The first two allow for quick alignement of non georeferenced data, where as the third allows to match data that has complex non-uniform and non-linear deformations (historical maps, hand drawn sketches, poorly digitized layers...). 
+The first two allow for quick alignment of non georeferenced data, where as the third allows to match data that has complex non-uniform and non-linear deformations (historical maps, hand drawn sketches, poorly digitized layers...). 
 
 [Have a look at version 0.1 presentation video !](https://vimeo.com/96142479)
 
